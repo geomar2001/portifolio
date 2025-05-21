@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu portfólio digital — um projeto que representa minha ident
 
 Este é o meu **portfólio online**, onde compartilho minha trajetória, habilidades e canais de contato. Ele foi criado com **HTML e CSS**, pensado para ser direto, responsivo e com uma identidade visual que comunica minha personalidade como dev.
 
-🔗 **Acesse online**: [geomar2001.github.io/profile-card](https://geomar2001.github.io/profile-card/)
+🔗 **Acesse online**: https://geomar2001.github.io/portifolio/
 
 ---
 
